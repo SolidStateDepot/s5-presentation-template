@@ -4,12 +4,13 @@ Use this template to make more S5 presentations.  Use this README to describe yo
 
 This is an S5 presentation.  There is a printer-friendly version.
 
-## How To Make a New SSD Presentation
+## How To Make a New Presentation
 1. Download this repository as a Zip.
 1. Edit your presentation.
 1. The HTML source code shows how to make more slides.  Just copy the Slide <div> as many times as you need and edit.  You don't need the notes, and sound is disabled here by default.
 1. Besides adding styles, avoid messing with the S5 CSS.  Try to stick to the presentation constraints.  If that won't work then then next best option is to force printer friendly with the 'defaultView' setting in slides.js.  If that isn't acceptable then Free says, "You'll need to know your CSS - I have a prototype that scrolls and has a TOC, obviously covered under the same license, ask me about it".
 
+## Upload to SSD Github Pages
 When you're done editing, upload your repo to the SSD Github as a Github Pages website.  Here's how:
 
 1. Become a member of SSD
@@ -21,6 +22,7 @@ When you're done editing, upload your repo to the SSD Github as a Github Pages w
 1. create/edit README.MD
 1. git add .
 1. git commit -m "first commit"
+1. git remote add origin [url-provided-by-github]
 1. git push origin gh-pages
 
 To get the URL of your presentation go to the Github repo's settings -- the 'gear' icon/button on the Github.com right-side toolbar.
