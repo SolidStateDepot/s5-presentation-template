@@ -12,6 +12,7 @@ This is an S5 presentation.  There is a printer-friendly version.
 1. Besides adding styles, avoid messing with the S5 CSS.  Try to stick to the presentation constraints.  If that won't work then then next best option is to force printer friendly with the 'defaultView' setting in slides.js.  If that isn't acceptable then Free says, "You'll need to know your CSS - I have a prototype that scrolls you should ask me about it".
 
 When you're done editing, upload your repo to the SSD Github as a Github Pages website.  Here's how:
+
 1. Become a member of SSD
 1. Get access to the SSD Github repo
 1. Create a new Github repo.
