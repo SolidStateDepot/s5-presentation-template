@@ -9,7 +9,8 @@ This is an S5 presentation.  There is a printer-friendly version.
 1. Teach a class or hold an event, such as a Meetup event.
 1. Download this repository as a Zip.
 1. Edit your presentation.
-1. Besides adding styles, avoid messing with the S5 CSS.  Try to stick to the presentation constraints.  If that won't work then then next best option is to force printer friendly with the 'defaultView' setting in slides.js.  If that isn't acceptable then Free says, "You'll need to know your CSS - I have a prototype that scrolls you should ask me about it".
+1. The HTML source code shows how to make more slides.  Just copy the Slide <div> as many times as you need and edit.  You don't need the notes, and sound is disabled here by default.
+1. Besides adding styles, avoid messing with the S5 CSS.  Try to stick to the presentation constraints.  If that won't work then then next best option is to force printer friendly with the 'defaultView' setting in slides.js.  If that isn't acceptable then Free says, "You'll need to know your CSS - I have a prototype that scrolls and has a TOC, ask me about it".
 
 When you're done editing, upload your repo to the SSD Github as a Github Pages website.  Here's how:
 
